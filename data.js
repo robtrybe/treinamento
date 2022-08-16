@@ -20,8 +20,7 @@ module.exports = {
             id: 5,
             nome: 'Cludio'
         }
-    ],
-    name:'Robson'
+    ]
 };
 
 
